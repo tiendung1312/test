@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-test 1
-change
-=======
-hello
->>>>>>> parent of edc4d23... commit test.txt
+change file 
